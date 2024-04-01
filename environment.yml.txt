@@ -1,0 +1,9 @@
+name: srinivasvarada-harman
+channels:  
+ - defaults
+dependencies:  
+- python=3.8.5  
+- openai  
+- python-dotenv
+
+
